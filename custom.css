@@ -1,0 +1,27 @@
+.bluetext{
+  color:red;
+}
+
+.bluebg{
+  background-color:navy;
+}
+
+
+
+.p1 {
+ margin: 35px;
+ background-color:yellow;
+}
+
+
+.p1 {
+ width:200px;
+ height:auto;
+ background-color:yellow;
+ font-family:arial;
+}
+.p2{
+ width:50%;
+ background-color:orange;
+ font-family:garamond
+}
